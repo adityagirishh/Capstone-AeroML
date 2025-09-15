@@ -1,0 +1,14 @@
+{
+  "window_size": 5,
+  "embed_dim": 16,
+  "n_components": 7,
+  "model_type": "raw_hmm",
+  "smooth_kernel": 3,
+  "recon_loss": null,
+  "hmm_score": 6389.142885253752,
+  "segmentation_consistency": 0.8775510204081632,
+  "boundary_stability": 1.0,
+  "mean_state_duration": 7.142857142857143,
+  "std_state_duration": 2.8499910490371434,
+  "time_sec": 0.023598670959472656
+}
